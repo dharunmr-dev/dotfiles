@@ -11,7 +11,7 @@
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1748097336479"
+                "backupFolder": "1748101516633"
             }
         ]
     },
@@ -23,7 +23,7 @@
             "file:///home/dharun/.config/kitty": "__default__profile__"
         },
         "emptyWindows": {
-            "1748097336479": "__default__profile__"
+            "1748101516633": "__default__profile__"
         }
     },
     "theme": "vs-dark",
@@ -58,7 +58,7 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/dharun/.config/Code/Backups/1748097336479",
+            "backupPath": "/home/dharun/.config/Code/Backups/1748101516633",
             "uiState": {
                 "mode": 1,
                 "x": 0,
