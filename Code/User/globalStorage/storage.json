@@ -1,0 +1,92 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9efdddf02b1bcc60fdc093cb2417afa01397471af3d4fb6cee4f475bc972b320",
+    "telemetry.devDeviceId": "09de5cc9-25bc-4e36-b83f-2c0f172d0107",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/dharun/.config/ronema"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1748097336479"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/dharun/.config/ronema": "__default__profile__",
+            "file:///home/dharun/rofi-network-manager/src": "__default__profile__",
+            "file:///home/dharun/.config/kitty": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1748097336479": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/dharun/.config/Code/Backups/1748097336479",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 22,
+                "width": 1366,
+                "height": 713
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "200e59c0b61ea5cec6a12ac43e032870": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5c6f753b38e8fe87b4212402bbef75db": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "ef6eb01ab7bee3560d38ce6ec93c26ec": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

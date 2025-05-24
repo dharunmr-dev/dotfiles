@@ -1,0 +1,2 @@
+2025-05-23 15:33:49.298 [error] #14: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_RESET
+2025-05-23 15:33:51.142 [error] #15: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_RESET

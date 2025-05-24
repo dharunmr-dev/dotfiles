@@ -1,0 +1,25 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+
+# Git branch with icon
+parse_git_branch() {
+  git_branch=$(git symbolic-ref --short HEAD 2>/dev/null)
+  if [ -n "$git_branch" ]; then
+    echo -e " \033[35m $git_branch\033[0m"
+  fi
+}
+
+# Custom prompt: [user@hostname full_path] [git_icon branch_name]
+PS1='[\u@\h \w]$(parse_git_branch) '
+
+# Set up fzf key bindings and fuzzy completion
+eval "$(fzf --bash)"
+export FZF_DEFAULT_OPTS='--color=pointer:blue'
+

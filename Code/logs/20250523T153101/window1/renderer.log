@@ -1,0 +1,8 @@
+2025-05-23 15:31:03.294 [info] Started local extension host with pid 3958.
+2025-05-23 15:31:03.375 [info] ComputeTargetPlatform: linux-x64
+2025-05-23 15:31:06.172 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-23 15:31:07.387 [info] [perf] Render performance baseline is 74ms
+2025-05-23 15:31:33.368 [error] [text file model] handleSaveError(8) - exit - resulted in a save error: Error: Unable to write file '/home/dharun/.config/picom/picom.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/dharun/.config/picom/picom.conf') file:///home/dharun/.config/picom/picom.conf
+2025-05-23 15:32:01.209 [error] [text file model] handleSaveError(12) - exit - resulted in a save error: Error: Unable to write file '/home/dharun/.config/picom/picom.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/dharun/.config/picom/picom.conf') file:///home/dharun/.config/picom/picom.conf
+2025-05-23 15:32:32.872 [error] [text file model] handleSaveError(16) - exit - resulted in a save error: Error: Unable to write file '/home/dharun/.config/picom/picom.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/dharun/.config/picom/picom.conf') file:///home/dharun/.config/picom/picom.conf
+2025-05-23 15:33:04.048 [error] [text file model] handleSaveError(28) - exit - resulted in a save error: Error: Unable to write file '/home/dharun/.config/picom/picom.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/dharun/.config/picom/picom.conf') file:///home/dharun/.config/picom/picom.conf
