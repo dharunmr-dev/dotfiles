@@ -1,9 +1,0 @@
-{
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
-    "workbench.editor.enablePreview": false,
-    "terminal.integrated.cursorBlinking": true,
-    "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.cursorWidth": 2,
-    "security.workspace.trust.untrustedFiles": "open"
-}
