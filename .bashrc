@@ -2,6 +2,10 @@
 # ~/.bashrc
 #
 
+# if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
+#     exec startx
+# fi
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 

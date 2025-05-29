@@ -66,12 +66,10 @@ bindsym $mod+n exec ronema
 # exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
 # Alternative (set last used background)
-bindsym $mod+l exec xdotool key Ctrl+Alt+F1
-bindsym $mod+$alt+l exec systemctl suspend && xdotool key Ctrl+Alt+F1 
+bindsym $mod+$alt+l exec systemctl suspend && betterlockscreen -l    
 bindsym $mod+$alt+x exec poweroff
 bindsym $mod+$alt+r exec reboot
-bindsym $mod+$alt+h exec systemctl hibernate && xdotool key Ctrl+Alt+F1
-# bindsym $mod+j exec  slp
+bindsym $mod+$alt+h exec systemctl hibernate && betterlockscreen -l     
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
