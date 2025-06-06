@@ -1,8 +1,17 @@
-btop/
+QtProject.conf
+ copyq/
+.gitignore
+Thunar/accels.scm
+kitty/current-theme.conf
+kitty/kitty.conf
+kitty/kitty.conf.bak
 Code/
+Electron/
+"YouTube Music/"
+btop/
+copyq/
 dconf/
 discord/
-Electron/
 go/
 google-chrome/
 gtk-2.0/
@@ -15,7 +24,461 @@ obsidian/
 pavucontrol.ini
 pulse/
 systemd/
-yay/
+vesktop/
 xfce4/
-YouTube\ Music/
-discord/
+.gitignore
+Thunar/accels.scm
+kitty/current-theme.conf
+kitty/kitty.conf
+kitty/kitty.conf.bak
+"YouTube Music/"
+YouTube Music/.updaterId
+YouTube Music/Cache/Cache_Data/00e7b397384ab589_0
+YouTube Music/Cache/Cache_Data/01f9db7efe5eaec7_0
+YouTube Music/Cache/Cache_Data/02522fadabca6723_0
+YouTube Music/Cache/Cache_Data/027e5119785363c2_0
+YouTube Music/Cache/Cache_Data/03e725b70c40c872_0
+YouTube Music/Cache/Cache_Data/04a6d456c672976c_0
+YouTube Music/Cache/Cache_Data/051df62f5998a0d1_0
+YouTube Music/Cache/Cache_Data/0761c6caae88bd03_0
+YouTube Music/Cache/Cache_Data/09392f58c5da0fcb_0
+YouTube Music/Cache/Cache_Data/0954f70b1403a40e_0
+YouTube Music/Cache/Cache_Data/0aad1c3dbbb9dbbe_0
+YouTube Music/Cache/Cache_Data/0b1260333d3747f1_0
+YouTube Music/Cache/Cache_Data/0c1001e1a2055e85_0
+YouTube Music/Cache/Cache_Data/0c594063aa99adee_0
+YouTube Music/Cache/Cache_Data/0d5ff0929e882ea9_0
+YouTube Music/Cache/Cache_Data/0e2b37f48000dcad_0
+YouTube Music/Cache/Cache_Data/0e695543284db692_0
+YouTube Music/Cache/Cache_Data/0f0fe616f4a34e76_0
+YouTube Music/Cache/Cache_Data/0fbf44a08de9c2bd_0
+YouTube Music/Cache/Cache_Data/0ffb97289a8f2b6e_0
+YouTube Music/Cache/Cache_Data/10732ed59145e92f_0
+YouTube Music/Cache/Cache_Data/139fe1dee22dc0bc_0
+YouTube Music/Cache/Cache_Data/149ad3c1fba4eefe_0
+YouTube Music/Cache/Cache_Data/15181f1f4b7a9a8a_0
+YouTube Music/Cache/Cache_Data/157b4e963bd91d4b_0
+YouTube Music/Cache/Cache_Data/15906f4bb4ebd839_0
+YouTube Music/Cache/Cache_Data/15d74a4d2cace380_0
+YouTube Music/Cache/Cache_Data/15fcdda1284eba82_0
+YouTube Music/Cache/Cache_Data/17dfd71a9129d432_0
+YouTube Music/Cache/Cache_Data/19410aecf41930e9_0
+YouTube Music/Cache/Cache_Data/195c28ec2505130b_0
+YouTube Music/Cache/Cache_Data/1be56b64cb002ce4_0
+YouTube Music/Cache/Cache_Data/1d03e5b350ca6804_0
+YouTube Music/Cache/Cache_Data/1e1cf5b1babdffe2_0
+YouTube Music/Cache/Cache_Data/1ea8379911e9c7a8_0
+YouTube Music/Cache/Cache_Data/1faff306ad31f4fd_0
+YouTube Music/Cache/Cache_Data/20611e987513f3e4_0
+YouTube Music/Cache/Cache_Data/214ccd79a3d40a27_0
+YouTube Music/Cache/Cache_Data/22b49db7aaa0cf26_0
+YouTube Music/Cache/Cache_Data/2485b8c8610ccfce_0
+YouTube Music/Cache/Cache_Data/24e691200b966a06_0
+YouTube Music/Cache/Cache_Data/252039edfbe74c2b_0
+YouTube Music/Cache/Cache_Data/2522e7b2b879e6ad_0
+YouTube Music/Cache/Cache_Data/25f8e22613e87b91_0
+YouTube Music/Cache/Cache_Data/273774d321194677_0
+YouTube Music/Cache/Cache_Data/2755b55ca6968c53_0
+YouTube Music/Cache/Cache_Data/2816b9de010ed002_0
+YouTube Music/Cache/Cache_Data/281ddc3663537382_0
+YouTube Music/Cache/Cache_Data/28df9031cf2d3d89_0
+YouTube Music/Cache/Cache_Data/2b02f7845d97046a_0
+YouTube Music/Cache/Cache_Data/2da6618ef7bd4087_0
+YouTube Music/Cache/Cache_Data/2e915c5b56dba724_0
+YouTube Music/Cache/Cache_Data/2eaa9bb37ca7664b_0
+YouTube Music/Cache/Cache_Data/2f180c2affc75792_0
+YouTube Music/Cache/Cache_Data/2fecdaa6593f0edd_0
+YouTube Music/Cache/Cache_Data/306ebdec8fa2c2e7_0
+YouTube Music/Cache/Cache_Data/3092b626e7bc05a9_0
+YouTube Music/Cache/Cache_Data/328f83496ffc2520_0
+YouTube Music/Cache/Cache_Data/375c88896bf5b6f2_0
+YouTube Music/Cache/Cache_Data/3772d93285fad33b_0
+YouTube Music/Cache/Cache_Data/3834764379f2fd62_0
+YouTube Music/Cache/Cache_Data/3a07a00e74a953bc_0
+YouTube Music/Cache/Cache_Data/3b796939c854557f_0
+YouTube Music/Cache/Cache_Data/3b96ddb2837fb35e_0
+YouTube Music/Cache/Cache_Data/3ce4f458ae000caa_0
+YouTube Music/Cache/Cache_Data/3dbff77291e92926_0
+YouTube Music/Cache/Cache_Data/3e02c60dc9624ebf_0
+YouTube Music/Cache/Cache_Data/3f51e736dd8e15fd_0
+YouTube Music/Cache/Cache_Data/3f7937437c203d30_0
+YouTube Music/Cache/Cache_Data/40007f9ad240cd42_0
+YouTube Music/Cache/Cache_Data/415197a9b509e1ce_0
+YouTube Music/Cache/Cache_Data/41eebd741ca838fb_0
+YouTube Music/Cache/Cache_Data/426de1a7bc9c4b83_0
+YouTube Music/Cache/Cache_Data/426f8cef3ab817a6_0
+YouTube Music/Cache/Cache_Data/427316f322401453_0
+YouTube Music/Cache/Cache_Data/42a3e3fd21dec628_0
+YouTube Music/Cache/Cache_Data/4312ff77600078d7_0
+YouTube Music/Cache/Cache_Data/43aa8b7838c9245e_0
+YouTube Music/Cache/Cache_Data/43f5de1cbed10071_0
+YouTube Music/Cache/Cache_Data/45b85423c439f95f_0
+YouTube Music/Cache/Cache_Data/478d4dde0310686a_0
+YouTube Music/Cache/Cache_Data/47cf7ffc9f3dedce_0
+YouTube Music/Cache/Cache_Data/4812f260902107b5_0
+YouTube Music/Cache/Cache_Data/48b942131ca57b31_0
+YouTube Music/Cache/Cache_Data/491e8593377ec0a3_0
+YouTube Music/Cache/Cache_Data/4b7a43257d42c5b6_0
+YouTube Music/Cache/Cache_Data/4bdcddccaa847eda_0
+YouTube Music/Cache/Cache_Data/4c9ff1a2d7125ba2_0
+YouTube Music/Cache/Cache_Data/4d99154ad6e4a18e_0
+YouTube Music/Cache/Cache_Data/4d9f0e996fbaf523_0
+YouTube Music/Cache/Cache_Data/4dfee23734d86697_0
+YouTube Music/Cache/Cache_Data/4f30e84a05cc6bf8_0
+YouTube Music/Cache/Cache_Data/50181c54ab9068d8_0
+YouTube Music/Cache/Cache_Data/51271d840d51124d_0
+YouTube Music/Cache/Cache_Data/51688f99e0af2e16_0
+YouTube Music/Cache/Cache_Data/51e8b88abbbb5adb_0
+YouTube Music/Cache/Cache_Data/5283edf90cf4ab50_0
+YouTube Music/Cache/Cache_Data/529c41ac53953f4c_0
+YouTube Music/Cache/Cache_Data/535fa1d75464c4e4_0
+YouTube Music/Cache/Cache_Data/53683dfd9944f8f8_0
+YouTube Music/Cache/Cache_Data/537dcab8afed3ef1_0
+YouTube Music/Cache/Cache_Data/53ff23dd12c908ff_0
+YouTube Music/Cache/Cache_Data/54bfdc580de18d69_0
+YouTube Music/Cache/Cache_Data/56138fef9e482145_0
+YouTube Music/Cache/Cache_Data/561ac164a3b926f6_0
+YouTube Music/Cache/Cache_Data/56842a8792fc0795_0
+YouTube Music/Cache/Cache_Data/56858a3889495ce5_0
+YouTube Music/Cache/Cache_Data/5780aae15d02c781_0
+YouTube Music/Cache/Cache_Data/5930a5db3885c9e2_0
+YouTube Music/Cache/Cache_Data/59658b72514ce103_0
+YouTube Music/Cache/Cache_Data/5a9d4879fa2f9a31_0
+YouTube Music/Cache/Cache_Data/5aa02be0630d110b_0
+YouTube Music/Cache/Cache_Data/5b1d1053fc90fd34_0
+YouTube Music/Cache/Cache_Data/5d5a294c6adffcff_0
+YouTube Music/Cache/Cache_Data/5dce26275bb434d3_0
+YouTube Music/Cache/Cache_Data/5ea010ee90ba0565_0
+YouTube Music/Cache/Cache_Data/5eb0753567e0330d_0
+YouTube Music/Cache/Cache_Data/5f22ff1a6735fe20_0
+YouTube Music/Cache/Cache_Data/601c92409c5b9cd2_0
+YouTube Music/Cache/Cache_Data/61916bcae65d4d1c_0
+YouTube Music/Cache/Cache_Data/61d185beb676a7eb_0
+YouTube Music/Cache/Cache_Data/627d11c11c45fb1c_0
+YouTube Music/Cache/Cache_Data/6285655791fc35f0_0
+YouTube Music/Cache/Cache_Data/63a72a6df9eb024c_0
+YouTube Music/Cache/Cache_Data/63be25b6b5406b1c_0
+YouTube Music/Cache/Cache_Data/655c7e6cea3e90e6_0
+YouTube Music/Cache/Cache_Data/65b4b64aea0fa93c_0
+YouTube Music/Cache/Cache_Data/65f0ad1111dc26f9_0
+YouTube Music/Cache/Cache_Data/68ce555b92a7408d_0
+YouTube Music/Cache/Cache_Data/6ad16b2f359a40b8_0
+YouTube Music/Cache/Cache_Data/6c3bb35b24592365_0
+YouTube Music/Cache/Cache_Data/6cb454250d0d34db_0
+YouTube Music/Cache/Cache_Data/701659d0925822ba_0
+YouTube Music/Cache/Cache_Data/70f7a392a892dc2b_0
+YouTube Music/Cache/Cache_Data/719af567f6fff01b_0
+YouTube Music/Cache/Cache_Data/71f616116a8e9e53_0
+YouTube Music/Cache/Cache_Data/72a725e39d3d4608_0
+YouTube Music/Cache/Cache_Data/7420e7285d9d41b9_0
+YouTube Music/Cache/Cache_Data/747c5c297f5bb32c_0
+YouTube Music/Cache/Cache_Data/748e751cfb99b813_0
+YouTube Music/Cache/Cache_Data/74c38a9f98e41b2a_0
+YouTube Music/Cache/Cache_Data/7535c352fda5302c_0
+YouTube Music/Cache/Cache_Data/75d458df805099c1_0
+YouTube Music/Cache/Cache_Data/76a8b19e61aad8a2_0
+YouTube Music/Cache/Cache_Data/76da1c680a3d668f_0
+YouTube Music/Cache/Cache_Data/7914ae8bcb5e1715_0
+YouTube Music/Cache/Cache_Data/7c041057bf2f7b2e_0
+YouTube Music/Cache/Cache_Data/820c3d1ff4b40830_0
+YouTube Music/Cache/Cache_Data/8303c58852f34955_0
+YouTube Music/Cache/Cache_Data/83b5d05077a813c3_0
+YouTube Music/Cache/Cache_Data/850d404b09ac40b1_0
+YouTube Music/Cache/Cache_Data/8551aac47dda6ccd_0
+YouTube Music/Cache/Cache_Data/8559bf3662150970_0
+YouTube Music/Cache/Cache_Data/860b1dcc29be3021_0
+YouTube Music/Cache/Cache_Data/875a015468b6b2b5_0
+YouTube Music/Cache/Cache_Data/887ffa830c5af57a_0
+YouTube Music/Cache/Cache_Data/89bc1fe5ab548e0d_0
+YouTube Music/Cache/Cache_Data/8b9187c3a455ec7e_0
+YouTube Music/Cache/Cache_Data/8d6a93b54aeb3893_0
+YouTube Music/Cache/Cache_Data/8f02c945d1f2e4b0_0
+YouTube Music/Cache/Cache_Data/9054ce8e6b6e7cef_0
+YouTube Music/Cache/Cache_Data/908e89270526d777_0
+YouTube Music/Cache/Cache_Data/913a9b930232a6ad_0
+YouTube Music/Cache/Cache_Data/924f37ae0a15726f_0
+YouTube Music/Cache/Cache_Data/9292ba845267a4cb_0
+YouTube Music/Cache/Cache_Data/93e2fcf695465657_0
+YouTube Music/Cache/Cache_Data/942488edd0443500_0
+YouTube Music/Cache/Cache_Data/943c28667921c09d_0
+YouTube Music/Cache/Cache_Data/9653e391d8492a04_0
+YouTube Music/Cache/Cache_Data/969f381af8790360_0
+YouTube Music/Cache/Cache_Data/971a3e11f275243c_0
+YouTube Music/Cache/Cache_Data/9773317759d90650_0
+YouTube Music/Cache/Cache_Data/985cf0f4541f9572_0
+YouTube Music/Cache/Cache_Data/9a297814d99e2b4b_0
+YouTube Music/Cache/Cache_Data/9a384c84f4bfb823_0
+YouTube Music/Cache/Cache_Data/9ad905b75e562827_0
+YouTube Music/Cache/Cache_Data/9b1b8630348d9501_0
+YouTube Music/Cache/Cache_Data/9b2d8fbfb8fd25fc_0
+YouTube Music/Cache/Cache_Data/9be62c8daa6f315c_0
+YouTube Music/Cache/Cache_Data/9caface7f5aac27d_0
+YouTube Music/Cache/Cache_Data/9fe639bcccdf1798_0
+YouTube Music/Cache/Cache_Data/9fe81d0dd73e2854_0
+YouTube Music/Cache/Cache_Data/a0e929266ce883e6_0
+YouTube Music/Cache/Cache_Data/a30e35fbc4709b1b_0
+YouTube Music/Cache/Cache_Data/a3303cf319134a4e_0
+YouTube Music/Cache/Cache_Data/a343ef5246570c10_0
+YouTube Music/Cache/Cache_Data/a37f7c3cac5b7b71_0
+YouTube Music/Cache/Cache_Data/a4385d47a242bd2b_0
+YouTube Music/Cache/Cache_Data/a51c3ced367c933d_0
+YouTube Music/Cache/Cache_Data/a57ab709c8d9ab63_0
+YouTube Music/Cache/Cache_Data/a5dda13f1f388db5_0
+YouTube Music/Cache/Cache_Data/a5eb7aec6fdd72d1_0
+YouTube Music/Cache/Cache_Data/a79d507847e28d19_0
+YouTube Music/Cache/Cache_Data/a7d7ee753af0668b_0
+YouTube Music/Cache/Cache_Data/a816664adf9458fe_0
+YouTube Music/Cache/Cache_Data/a842be502f513395_0
+YouTube Music/Cache/Cache_Data/a85a06346223f46c_0
+YouTube Music/Cache/Cache_Data/aa018b2a596e1efb_0
+YouTube Music/Cache/Cache_Data/aadca336f293648b_0
+YouTube Music/Cache/Cache_Data/ab7977014564e6a6_0
+YouTube Music/Cache/Cache_Data/aea77d2e89065fc2_0
+YouTube Music/Cache/Cache_Data/aebbcf8c77501559_0
+YouTube Music/Cache/Cache_Data/aed9c163043e640a_0
+YouTube Music/Cache/Cache_Data/b0474c1174185a1e_0
+YouTube Music/Cache/Cache_Data/b0d2544a11c57f77_0
+YouTube Music/Cache/Cache_Data/b3f6bbdd885eefc9_0
+YouTube Music/Cache/Cache_Data/b425f63759ebca6d_0
+YouTube Music/Cache/Cache_Data/b51e4ea8acde2280_0
+YouTube Music/Cache/Cache_Data/b66a175ad7c58786_0
+YouTube Music/Cache/Cache_Data/b6e9174fd2f322d9_0
+YouTube Music/Cache/Cache_Data/b78fae65187e2771_0
+YouTube Music/Cache/Cache_Data/b7ba5721dc113a8a_0
+YouTube Music/Cache/Cache_Data/b7d5a549520e45b9_0
+YouTube Music/Cache/Cache_Data/b7f04e18f2a4eb22_0
+YouTube Music/Cache/Cache_Data/b85140996166bdb0_0
+YouTube Music/Cache/Cache_Data/b8675cd84c0dbdff_0
+YouTube Music/Cache/Cache_Data/b8c51d02eb0eb325_0
+YouTube Music/Cache/Cache_Data/b8ef1adc8de2a873_0
+YouTube Music/Cache/Cache_Data/bbfac8e8d875e6dc_0
+YouTube Music/Cache/Cache_Data/bd62b95201a72cc8_0
+YouTube Music/Cache/Cache_Data/be51d01858f163e4_0
+YouTube Music/Cache/Cache_Data/be5b2ca7edd246f7_0
+YouTube Music/Cache/Cache_Data/be7f5ab2ebb8c0c9_0
+YouTube Music/Cache/Cache_Data/bea5225ba233ec20_0
+YouTube Music/Cache/Cache_Data/bef7c17ab5250f5c_0
+YouTube Music/Cache/Cache_Data/bfbab40bc7b99367_0
+YouTube Music/Cache/Cache_Data/c0d389b22fa976f8_0
+YouTube Music/Cache/Cache_Data/c50ad4767fb84205_0
+YouTube Music/Cache/Cache_Data/c58508e8a8cee266_0
+YouTube Music/Cache/Cache_Data/c5dd03d811c50fbf_0
+YouTube Music/Cache/Cache_Data/c5ff23727a761117_0
+YouTube Music/Cache/Cache_Data/c63d83768a60ba15_0
+YouTube Music/Cache/Cache_Data/c6759b154c91dfb4_0
+YouTube Music/Cache/Cache_Data/c73b7ab018575d4f_0
+YouTube Music/Cache/Cache_Data/c8223ade3a68ef17_0
+YouTube Music/Cache/Cache_Data/c8db08fe2778a2cc_0
+YouTube Music/Cache/Cache_Data/cad428f1e4041b15_0
+YouTube Music/Cache/Cache_Data/cbe943a9ad0ac24e_0
+YouTube Music/Cache/Cache_Data/cce30bc87d0e4182_0
+YouTube Music/Cache/Cache_Data/cd0bc745813eee15_0
+YouTube Music/Cache/Cache_Data/cd0f8e236645a465_0
+YouTube Music/Cache/Cache_Data/cdaa2b03bbc2e4fc_0
+YouTube Music/Cache/Cache_Data/ce05f15e3c1e7ae3_0
+YouTube Music/Cache/Cache_Data/cef3dfe80ba38c53_0
+YouTube Music/Cache/Cache_Data/d049938a65636461_0
+YouTube Music/Cache/Cache_Data/d285f3354fe7388c_0
+YouTube Music/Cache/Cache_Data/d352b9c2b13b714b_0
+YouTube Music/Cache/Cache_Data/d44a7bb7991f36bf_0
+YouTube Music/Cache/Cache_Data/d4a1df75581c96a1_0
+YouTube Music/Cache/Cache_Data/d599dae672acb3b7_0
+YouTube Music/Cache/Cache_Data/d705c0370104f887_0
+YouTube Music/Cache/Cache_Data/d77167a465648646_0
+YouTube Music/Cache/Cache_Data/d894b5a8874d1567_0
+YouTube Music/Cache/Cache_Data/d8bdf0f93e92a820_0
+YouTube Music/Cache/Cache_Data/d8d4fa530e049aeb_0
+YouTube Music/Cache/Cache_Data/db7412730070bfd3_0
+YouTube Music/Cache/Cache_Data/dc63e7d71e766e21_0
+YouTube Music/Cache/Cache_Data/dcb143b2bfdc07d7_0
+YouTube Music/Cache/Cache_Data/dd2e8562873a9b13_0
+YouTube Music/Cache/Cache_Data/dd3e25f2fe94bb52_0
+YouTube Music/Cache/Cache_Data/ddcb3aac19a1834f_0
+YouTube Music/Cache/Cache_Data/deea88d18365b09d_0
+YouTube Music/Cache/Cache_Data/df2a071122ac4066_0
+YouTube Music/Cache/Cache_Data/dfee5db7d7eeb9cf_0
+YouTube Music/Cache/Cache_Data/e0bdaec86cd18312_0
+YouTube Music/Cache/Cache_Data/e0d67edc4d3c2ed3_0
+YouTube Music/Cache/Cache_Data/e11f3fc4394eceb0_0
+YouTube Music/Cache/Cache_Data/e406c5fae5108d41_0
+YouTube Music/Cache/Cache_Data/e64dbdf026db5bb1_0
+YouTube Music/Cache/Cache_Data/e6a6ff5845611aba_0
+YouTube Music/Cache/Cache_Data/e821768a4ab59f65_0
+YouTube Music/Cache/Cache_Data/e8551bd169bff2f9_0
+YouTube Music/Cache/Cache_Data/e8a83456ddbd9e31_0
+YouTube Music/Cache/Cache_Data/e8b1a43529b0fed2_0
+YouTube Music/Cache/Cache_Data/e941c57e98018b1b_0
+YouTube Music/Cache/Cache_Data/e9fbdcdfb9d78e11_0
+YouTube Music/Cache/Cache_Data/ea03f68a22844d1f_0
+YouTube Music/Cache/Cache_Data/ee7f1e60b47c960b_0
+YouTube Music/Cache/Cache_Data/ef93e7196ba9358e_0
+YouTube Music/Cache/Cache_Data/efc8acbfd9d97b05_0
+YouTube Music/Cache/Cache_Data/efdcd4973c3efa62_0
+YouTube Music/Cache/Cache_Data/f015b9fb11cdfc00_0
+YouTube Music/Cache/Cache_Data/f1a02b86f3924fa6_0
+YouTube Music/Cache/Cache_Data/f262745e0a24fe09_0
+YouTube Music/Cache/Cache_Data/f28379fac1d7d9e9_0
+YouTube Music/Cache/Cache_Data/f3084dcad34492ed_0
+YouTube Music/Cache/Cache_Data/f329a09bf4704c34_0
+YouTube Music/Cache/Cache_Data/f407c36e2c1bfb49_0
+YouTube Music/Cache/Cache_Data/f40e5ef858b88025_0
+YouTube Music/Cache/Cache_Data/f4893906f16989a9_0
+YouTube Music/Cache/Cache_Data/f5334d002d0f4a9a_0
+YouTube Music/Cache/Cache_Data/f678ba39448b783f_0
+YouTube Music/Cache/Cache_Data/f721eb4efba49365_0
+YouTube Music/Cache/Cache_Data/f7cb1d2490c0fab0_0
+YouTube Music/Cache/Cache_Data/f9d9c65caa62694a_0
+YouTube Music/Cache/Cache_Data/fad1044a3d60e81b_0
+YouTube Music/Cache/Cache_Data/fb35c972b9ef1f7a_0
+YouTube Music/Cache/Cache_Data/fca3e1d45c3ab3ba_0
+YouTube Music/Cache/Cache_Data/fd1464703a874663_0
+YouTube Music/Cache/Cache_Data/fdae8640eb00722b_0
+YouTube Music/Cache/Cache_Data/fe282213ba87275b_0
+YouTube Music/Cache/Cache_Data/fea422447015a3e9_0
+YouTube Music/Cache/Cache_Data/ff161c61962ab87f_0
+YouTube Music/Cache/Cache_Data/index
+YouTube Music/Cache/Cache_Data/index-dir/the-real-index
+YouTube Music/Code Cache/js/068cdb7e31991eb7_0
+YouTube Music/Code Cache/js/07928366064ec2be_0
+YouTube Music/Code Cache/js/0b3f0290f321414d_0
+YouTube Music/Code Cache/js/0ed071e925bc2770_0
+YouTube Music/Code Cache/js/2588a5b2b7a2b1a3_0
+YouTube Music/Code Cache/js/2e42e64cd0161fc1_0
+YouTube Music/Code Cache/js/2f8ccade3a92008f_0
+YouTube Music/Code Cache/js/335e69ddec2b9ac6_0
+YouTube Music/Code Cache/js/374cb1a3e9b38403_0
+YouTube Music/Code Cache/js/37b85c0ba1a4496b_0
+YouTube Music/Code Cache/js/394c13d8dfff275b_0
+YouTube Music/Code Cache/js/3bda6f31a0a197f3_0
+YouTube Music/Code Cache/js/4f3f0fe32ad6503e_0
+YouTube Music/Code Cache/js/505cccd67f36ac22_0
+YouTube Music/Code Cache/js/5393176d68c5bece_0
+YouTube Music/Code Cache/js/562d72400c501ff7_0
+YouTube Music/Code Cache/js/5889931439d1647c_0
+YouTube Music/Code Cache/js/6844333d86b8a090_0
+YouTube Music/Code Cache/js/69c430fc10ff2170_0
+YouTube Music/Code Cache/js/6efc7f52316dc932_0
+YouTube Music/Code Cache/js/73bbb7ebb2d73539_0
+YouTube Music/Code Cache/js/795ddf826f6d5fe0_0
+YouTube Music/Code Cache/js/7a4581a39eedb630_0
+YouTube Music/Code Cache/js/800a7aded2fe1970_0
+YouTube Music/Code Cache/js/8302eac897c62993_0
+YouTube Music/Code Cache/js/8a8e2229b6b63504_0
+YouTube Music/Code Cache/js/8d5f677dc178825e_0
+YouTube Music/Code Cache/js/9451cacadbf1089e_0
+YouTube Music/Code Cache/js/962bdd72e68fffc4_0
+YouTube Music/Code Cache/js/9986e74666582587_0
+YouTube Music/Code Cache/js/ae92d0e1f948bafb_0
+YouTube Music/Code Cache/js/b5fbae94bf9c86f3_0
+YouTube Music/Code Cache/js/b645fa24f429fcda_0
+YouTube Music/Code Cache/js/c2a46cd64ab4201d_0
+YouTube Music/Code Cache/js/ce7d9dc56d8c85af_0
+YouTube Music/Code Cache/js/ceb03d2950d8d6fc_0
+YouTube Music/Code Cache/js/cee5d4b3b2909e33_0
+YouTube Music/Code Cache/js/cf2c56df4379e3d6_0
+YouTube Music/Code Cache/js/d2f5a1ae15308b14_0
+YouTube Music/Code Cache/js/d750c0b4e49d05c3_0
+YouTube Music/Code Cache/js/da5cd782dce2ac26_0
+YouTube Music/Code Cache/js/e10a2d314708f6d8_0
+YouTube Music/Code Cache/js/e19da518c26d4746_0
+YouTube Music/Code Cache/js/index
+YouTube Music/Code Cache/js/index-dir/the-real-index
+YouTube Music/Code Cache/wasm/index
+YouTube Music/Code Cache/wasm/index-dir/the-real-index
+YouTube Music/Cookies
+YouTube Music/Cookies-journal
+YouTube Music/Crashpad/client_id
+YouTube Music/DawnGraphiteCache/data_0
+YouTube Music/DawnGraphiteCache/data_1
+YouTube Music/DawnGraphiteCache/data_2
+YouTube Music/DawnGraphiteCache/data_3
+YouTube Music/DawnGraphiteCache/index
+YouTube Music/DawnWebGPUCache/data_0
+YouTube Music/DawnWebGPUCache/data_1
+YouTube Music/DawnWebGPUCache/data_2
+YouTube Music/DawnWebGPUCache/data_3
+YouTube Music/DawnWebGPUCache/index
+YouTube Music/Dictionaries/en-US-10-1.bdic
+YouTube Music/GPUCache/data_0
+YouTube Music/GPUCache/data_1
+YouTube Music/GPUCache/data_2
+YouTube Music/GPUCache/data_3
+YouTube Music/GPUCache/index
+YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log
+YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/CURRENT
+YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/LOCK
+YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/LOG
+YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/LOG.old
+YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+YouTube Music/Local Storage/leveldb/000003.log
+YouTube Music/Local Storage/leveldb/CURRENT
+YouTube Music/Local Storage/leveldb/LOCK
+YouTube Music/Local Storage/leveldb/LOG
+YouTube Music/Local Storage/leveldb/LOG.old
+YouTube Music/Local Storage/leveldb/MANIFEST-000001
+YouTube Music/Network Persistent State
+YouTube Music/Preferences
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/075be6dfcfe642c3_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/075be6dfcfe642c3_1
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/09de2a5a5e8982ee_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/09de2a5a5e8982ee_1
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/0b9780ec0e3b6284_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/3509ec0d682a7246_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/3509ec0d682a7246_1
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/6f33cd7f752d52ed_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/75e8c02596f64f39_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/7ce89ea10c29e778_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/7ce89ea10c29e778_1
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/84c6a6df3e7c47da_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/84c6a6df3e7c47da_1
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/a43f63b451fd7ad8_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/fb221dc9484b0ece_0
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/index
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/cf0565f9-9392-4682-9f28-c1970766f99c/index-dir/the-real-index
+YouTube Music/Service Worker/CacheStorage/1e538fbb9a411578d5bec848a4a4b012e8b26441/index.txt
+YouTube Music/Service Worker/Database/000003.log
+YouTube Music/Service Worker/Database/CURRENT
+YouTube Music/Service Worker/Database/LOCK
+YouTube Music/Service Worker/Database/LOG
+YouTube Music/Service Worker/Database/LOG.old
+YouTube Music/Service Worker/Database/MANIFEST-000001
+YouTube Music/Service Worker/ScriptCache/013888a1cda32b90_0
+YouTube Music/Service Worker/ScriptCache/013888a1cda32b90_1
+YouTube Music/Service Worker/ScriptCache/297ecea5cebb5dfe_0
+YouTube Music/Service Worker/ScriptCache/297ecea5cebb5dfe_1
+YouTube Music/Service Worker/ScriptCache/2cc80dabc69f58b6_0
+YouTube Music/Service Worker/ScriptCache/2cc80dabc69f58b6_1
+YouTube Music/Service Worker/ScriptCache/index
+YouTube Music/Service Worker/ScriptCache/index-dir/the-real-index
+YouTube Music/Session Storage/000003.log
+YouTube Music/Session Storage/CURRENT
+YouTube Music/Session Storage/LOCK
+YouTube Music/Session Storage/LOG
+YouTube Music/Session Storage/LOG.old
+YouTube Music/Session Storage/MANIFEST-000001
+YouTube Music/Shared Dictionary/cache/index
+YouTube Music/Shared Dictionary/cache/index-dir/the-real-index
+YouTube Music/Shared Dictionary/db
+YouTube Music/Shared Dictionary/db-journal
+YouTube Music/SharedStorage
+YouTube Music/TransportSecurity
+YouTube Music/Trust Tokens
+YouTube Music/Trust Tokens-journal
+YouTube Music/VideoDecodeStats/LOCK
+YouTube Music/VideoDecodeStats/LOG
+YouTube Music/VideoDecodeStats/LOG.old
+YouTube Music/WebStorage/QuotaManager
+YouTube Music/WebStorage/QuotaManager-journal
+YouTube Music/config.json
+YouTube Music/shared_proto_db/000003.log
+YouTube Music/shared_proto_db/CURRENT
+YouTube Music/shared_proto_db/LOCK
+YouTube Music/shared_proto_db/LOG
+YouTube Music/shared_proto_db/LOG.old
+YouTube Music/shared_proto_db/MANIFEST-000001
+YouTube Music/shared_proto_db/metadata/000003.log
+YouTube Music/shared_proto_db/metadata/CURRENT
+YouTube Music/shared_proto_db/metadata/LOCK
+YouTube Music/shared_proto_db/metadata/LOG
+YouTube Music/shared_proto_db/metadata/LOG.old
+YouTube Music/shared_proto_db/metadata/MANIFEST-000001
