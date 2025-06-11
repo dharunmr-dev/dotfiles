@@ -35,9 +35,11 @@ export FZF_DEFAULT_OPTS='--color=pointer:blue'
 source /usr/share/fzf/key-bindings.bash
 
 # Aliases
+alias srcb='source .bashrc'
 alias p='sudo pacman'
+alias t='tree'
 alias py='python'
-alias vim='nvim'
+alias rmrf='sudo rm -rf'
 alias activate='_activate () { source "$1"/bin/activate; };_activate'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
