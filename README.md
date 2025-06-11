@@ -11,10 +11,18 @@
 9. obsidian
 10. thunar
 
-To install everything :
+### To install everything except non pacman applications:
 ```
-sudo pacman -S obsidian thunar i3 kitty picom polybar rofi ronema .bashrc .gitignore
+sudo pacman -S i3 polybar rofi obsidian kitty picom obsidian thunar
 ```
+### To install non pacman applications:
+rofi-network-manager:
+```
+git clone --depth 1 --branch master https://github.com/P3rf/rofi-network-manager.git
+cd rofi-network-manager
+./setup.sh install
+```
+
 ### install [Stow](#stow) :
 ```
 sudo pacman -S stow
