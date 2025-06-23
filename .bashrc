@@ -52,3 +52,6 @@ alias status='_status () { sudo systemctl status "$1";};_status'
 alias sync_time='timedatectl set-ntp true'
 alias update='sudo pacman -Syu'
 alias cls='clear && printf "\e[3J"'
+
+# export NVM_DIR="$HOME/.nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" 

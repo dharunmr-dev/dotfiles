@@ -23,5 +23,7 @@ systemd/
 vesktop/
 xfce4/
 Thunar/accels.scm
-kitty/
 gh/
+JetBrains/
+github-copilot/
+onlyoffice/
