@@ -170,6 +170,9 @@ bindsym $mod+Shift+space floating toggle
 # change focus between tiling / floating windows
 bindsym $mod+space focus mode_toggle
 
+# moving between the windows when fullscreen in the same workspace
+bindsym $mod+Tab fullscreen disable, focus right fullscreen enable
+
 # focus the parent container
 bindsym $mod+a focus parent
 
@@ -229,7 +232,9 @@ bindsym $alt+Down workspace prev
 # Bind Alt+Up Arrow to move to the next workspace
 bindsym $alt+Up workspace next
 
-bindsym $mod+Tab workspace next
+# moving between the workspaces
+bindsym $mod+$alt+Right workspace next
+bindsym $mod+$alt+Left workspace prev
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
