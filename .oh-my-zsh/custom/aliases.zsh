@@ -1,0 +1,5 @@
+alias aliases="nvim ~/.oh-my-zsh/custom/aliases.zsh"
+alias vi="nvim"
+alias vim="nvim"
+alias zshconfig="nvim ~/.zshrc"
+alias starshipconfig="nvim ~/.config/starship/starship.toml"
