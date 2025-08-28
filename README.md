@@ -1,7 +1,7 @@
 #### Follow below steps to properly setup these dotfiles :
 First clone this repo by : 
 ```
-git clone --recursive https://github.com/dharunmr-dev/dotfiles.git
+git clone https://github.com/dharunmr-dev/dotfiles.git
 ```
 reason for recursive is to clone the submodules for .oh-my-zsh `(dotfiles/ohmyzsh/.ohmyzsh/custom/plugins/)` needed plugins :
 
@@ -38,4 +38,12 @@ sudo add-apt-repository ppa:neovim-ppa/unstable -y
 sudo apt update
 sudo apt install make gcc ripgrep unzip git xclip neovim
 ```
-
+###### Install fzf
+```
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
+```
+###### Install uv (python all in one project manager)
+```
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
