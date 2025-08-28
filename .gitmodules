@@ -13,3 +13,6 @@
 [submodule "ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autosuggestions"]
 	path = ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autocomplete"]
+	path = ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autocomplete
+	url = https://github.com/marlonrichert/zsh-autocomplete.git
