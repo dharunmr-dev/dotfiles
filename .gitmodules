@@ -1,0 +1,3 @@
+[submodule "/Users/dharun.m.r/dotfiles/ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autocomplete"]
+	path = /Users/dharun.m.r/dotfiles/ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autocomplete
+	url = https://github.com/marlonrichert/zsh-autocomplete.git
