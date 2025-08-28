@@ -16,3 +16,6 @@
 [submodule "ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autocomplete"]
 	path = ohmyzsh/.oh-my-zsh/custom/plugins/zsh-autocomplete
 	url = https://github.com/marlonrichert/zsh-autocomplete.git
+[submodule "ohmyzsh/.oh-my-zsh/custom/plugins/fast-syntax-highlighting"]
+	path = ohmyzsh/.oh-my-zsh/custom/plugins/fast-syntax-highlighting
+	url = https://github.com/zdharma-continuum/fast-syntax-highlighting.git
