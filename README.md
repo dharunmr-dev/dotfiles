@@ -1,7 +1,7 @@
 #### Follow below steps to properly setup these dotfiles :
 First clone this repo by : 
 ```
-git clone https://github.com/dharunmr-dev/dotfiles.git
+git clone --recursive https://github.com/dharunmr-dev/dotfiles.git
 ```
 reason for recursive is to clone the submodules for .oh-my-zsh `(dotfiles/ohmyzsh/.ohmyzsh/custom/plugins/)` needed plugins :
 
