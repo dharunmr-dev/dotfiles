@@ -103,8 +103,10 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # Set up fzf key bindings and fuzzy completion
 eval "$(starship init zsh)"
-eval "$(uv generate-shell-completion zsh)"
 export STARSHIP_CONFIG=~/.config/starship/starship.toml
 
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+. "$HOME/.local/bin/env"
+eval "$(uv generate-shell-completion zsh)"

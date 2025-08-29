@@ -7,3 +7,5 @@ export SDKMAN_DIR="$HOME/.sdkman"
 export PATH="$PATH:/Users/dharun.m.r/.lmstudio/bin"
 # End of LM Studio CLI section
 
+
+. "$HOME/.local/bin/env"
