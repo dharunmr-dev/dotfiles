@@ -47,3 +47,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
+###### Install tmux
+```
+sudo apt install tmux
+```
