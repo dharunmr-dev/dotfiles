@@ -29,7 +29,7 @@ git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh
 ```
 ###### Install starship, a "cross shell prompt" 
 ```
-sudo apt install starship
+curl -sS https://starship.rs/install.sh | sh
 ```
 ###### Install neovim
 I started using kickstart-nvim so i am going with their docs.
