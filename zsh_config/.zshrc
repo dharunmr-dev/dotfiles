@@ -111,5 +111,9 @@ export STARSHIP_CONFIG=~/.config/starship/starship.toml
 . "$HOME/.local/bin/env"
 eval "$(uv generate-shell-completion zsh)"
 source "$HOME/.sdkman/bin/sdkman-init.sh"
-export ANDROID_HOME=~/Library/Android/sdk
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+export ANDROID_NDK=$ANDROID_HOME/ndk/27.0.11718014
+export ANDROID_NDK_ROOT=$ANDROID_NDK
