@@ -6,3 +6,4 @@ alias bashrc="nvim ~/.bashrc"
 alias bashprofile="nvim ~/.bash_profile"
 alias starshipconfig="nvim ~/.config/starship/starship.toml"
 alias aerospaceconfig='nvim ~/aerospace.toml'
+alias lsa="eza --long --header --icons --all"
