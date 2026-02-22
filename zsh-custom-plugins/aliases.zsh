@@ -1,0 +1,10 @@
+alias aliases="nvim ~/dotfiles/zsh-custom-plugins/aliases.zsh"
+alias vi="nvim"
+alias vim="nvim"
+alias zshrc="nvim ~/dotfiles/zshrc/.zshrc"
+alias bashrc="nvim ~/.bashrc"
+alias bashprofile="nvim ~/.bash_profile"
+alias starshipconfig="nvim ~/dotfiles/starship/.config/starship/starship.toml"
+alias aerospaceconfig='nvim ~/dotfiles/aerospace/aerospace.toml'
+alias lsa="eza --long --header --icons --all"
+alias sed="gsed"
