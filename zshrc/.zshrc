@@ -134,4 +134,4 @@ if [ -d "$HOME/.lmstudio/bin" ]; then
 	export PATH="$PATH:/Users/dharunmr/.lmstudio/bin"
 fi
 # End of LM Studio CLI section
-
+export GPG_TTY=$(tty)
