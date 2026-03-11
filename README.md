@@ -15,7 +15,7 @@ welcome to my dotfile repository
 
 ### Installation : 
 ```
-https://github.com/dharunmr-dev/dotfiles.git
+git clone https://github.com/dharunmr-dev/dotfiles.git
 ```
 
 ### Requirements :
