@@ -1,0 +1,8 @@
+- [x] create github repo "ownyoursecrets"
+- [x] create a github project "ownyoursecrets-tracker"
+- [x] Initial architecture idea
+- [ ] Install required software and complete initial setups
+	- [ ] postgreSQL
+	- [ ] Java, Spring boot
+	- [ ] ReactJS
+	- [ ] UI Components
