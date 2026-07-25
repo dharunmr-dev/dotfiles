@@ -76,7 +76,6 @@ plugins=(
 	copyfile 
 	copypath 
 	dirhistory 
-	zsh-nvm 
 	git 
 	vi-mode
 )
