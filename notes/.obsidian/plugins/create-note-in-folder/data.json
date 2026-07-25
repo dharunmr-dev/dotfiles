@@ -1,0 +1,29 @@
+{
+  "folder": [],
+  "customVariables": [],
+  "timeOutForInlineTitle": 50,
+  "enableAllFolder": true,
+  "listAllFolderInModals": true,
+  "defaultTemplate": {
+    "path": "",
+    "commandName": "",
+    "template": {
+      "type": "none",
+      "format": "",
+      "position": "append",
+      "separator": "",
+      "increment": true
+    },
+    "fileName": "Untitled",
+    "opening": "newTab",
+    "focused": true,
+    "splitDefault": "horizontal",
+    "alreadyExistOpening": {
+      "opening": "newTab",
+      "splitDefault": "horizontal",
+      "focused": true
+    },
+    "fileMenu": true
+  },
+  "filterAnyFolderCommand": false
+}
