@@ -1,2 +1,0 @@
-- [x] ## Due : Friday
-- [x] characteristics or real time scheduling

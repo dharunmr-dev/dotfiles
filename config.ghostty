@@ -1,0 +1,3 @@
+theme = Starlight
+font-family = "JuliaMono"
+confirm-close-surface = false
