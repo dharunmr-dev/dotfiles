@@ -8,4 +8,4 @@ alias starshipconfig="nvim ~/dotfiles/starship/.config/starship/starship.toml"
 alias aerospaceconfig='nvim ~/dotfiles/aerospace/aerospace.toml'
 alias lsa="eza --long --header --icons --all"
 alias sed="gsed"
-alias ghosttyconfig="nvim .config/ghostty/config.ghostty"
+alias ghosttyconfig="nvim ~/.config/ghostty/config.ghostty"
